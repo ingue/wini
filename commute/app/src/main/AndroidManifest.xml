@@ -25,7 +25,8 @@
         <activity android:name=".ScheduleActivity" />
         <activity android:name=".NoticeActivity" />
         <activity android:name=".IssueActivity" />
-        <activity android:name=".MyPageActivity"></activity>
+        <activity android:name=".MyPageActivity" />
+        <activity android:name=".AnyActivity"></activity>
     </application>
 
 </manifest>
